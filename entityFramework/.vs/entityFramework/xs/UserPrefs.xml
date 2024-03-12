@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7B07E782-7B13-4B8A-B5DC-33511AD4F261}|Default">
+  <MonoDevelop.Ide.ItemProperties.entityFramework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="entityFramework/Data/DBFirst/DBFirstContext.cs">
+    <Files>
+      <File FileName="entityFramework/Program.cs" Line="282" Column="45" />
+      <File FileName="entityFramework/ShopContext.cs" Line="32" Column="63" />
+      <File FileName="entityFramework/Supplier.cs" />
+      <File FileName="entityFramework/Data/DBFirst/DBFirstContext.cs" Line="9" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="entityFramework" expanded="True">
+            <Node name="entityFramework" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

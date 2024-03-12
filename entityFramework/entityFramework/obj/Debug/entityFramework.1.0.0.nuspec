@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>entityFramework</id>
+    <version>1.0.0</version>
+    <authors>entityFramework</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Microsoft.EntityFrameworkCore.Sqlite" version="7.0.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\90537\Desktop\dotNetNotes\entityFramework\entityFramework\bin\Debug\net7.0\entityFramework.runtimeconfig.json" target="lib\net7.0\entityFramework.runtimeconfig.json" />
+    <file src="C:\Users\90537\Desktop\dotNetNotes\entityFramework\entityFramework\bin\Debug\net7.0\entityFramework.dll" target="lib\net7.0\entityFramework.dll" />
+  </files>
+</package>
